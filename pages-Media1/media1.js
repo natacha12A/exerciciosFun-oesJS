@@ -7,6 +7,6 @@ function media(nota1, nota2) {
     let media3  = media(10, 10)
     
     console.log(`MEDIA 1 = ${media1.toFixed(5)}`)
-    console.log(`MEDIA 2 = ${media1.toFixed(5)}`)
-    console.log(`MEDIA 3 = ${media1.toFixed(5)}`)
+    console.log(`MEDIA 2 = ${media2.toFixed(5)}`)
+    console.log(`MEDIA 3 = ${media3.toFixed(5)}`)
     
